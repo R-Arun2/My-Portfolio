@@ -37,8 +37,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm a passionate software engineer with a background in web development,
-            mobile development, and UI/UX design. I'm always eager to learn and improve my skills.
+            I&apos;m a passionate software engineer with a background in web development,
+            mobile development, and UI/UX design. I&apos;m always eager to learn and improve my skills.
             <br></br>
           
             

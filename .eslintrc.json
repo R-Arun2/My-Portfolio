@@ -1,3 +1,7 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next", "next/core-web-vitals"],
+  "rules": {
+    "no-console": "off", // Example: Turn off 'no-console' rule
+    "react/prop-types": "off" // Example: Turn off 'react/prop-types' rule
+  }
 }
